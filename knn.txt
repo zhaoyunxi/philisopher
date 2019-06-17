@@ -1,2 +1,0 @@
-git is a free and strong software under the GPL
-Git is a distributed version control system
